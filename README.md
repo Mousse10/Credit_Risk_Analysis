@@ -12,12 +12,26 @@ The purpose of this analysis is to understand how to utilize Machine Learning st
 
 ### Naive Random Oversampling
 
+![](https://github.com/Mousse10/Credit_Risk_Analysis/blob/main/Resources/Naive%20Random%20Oversampling.PNG)
+
 ### SMOTE Oversampling
+
+![](https://github.com/Mousse10/Credit_Risk_Analysis/blob/main/Resources/SMOTE%20Oversampling.PNG)
 
 ### Undersampling
 
+![](https://github.com/Mousse10/Credit_Risk_Analysis/blob/main/Resources/Undersampling.PNG)
+
 ### Combination Under-Over Sampling
 
+![](https://github.com/Mousse10/Credit_Risk_Analysis/blob/main/Resources/Combination%20(Over%20and%20Under)%20Sampling.PNG)
+
 ### Balanced Random Forest Classifier
+
+![](https://github.com/Mousse10/Credit_Risk_Analysis/blob/main/Resources/Balanced%20Random%20Forest%20Classifier.PNG)
+
+### Easy Ensemble AdaBoost Classifier
+
+![](https://github.com/Mousse10/Credit_Risk_Analysis/blob/main/Resources/Easy%20Ensemble%20AdaBoost%20Classifier.PNG)
 
 ## Summary
