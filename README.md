@@ -14,24 +14,50 @@ The purpose of this analysis is to understand how to utilize Machine Learning st
 
 ![](https://github.com/Mousse10/Credit_Risk_Analysis/blob/main/Resources/Naive%20Random%20Oversampling.PNG)
 
+- Balanced accuracy score: 62.49%
+- Precision score: 99%
+- Recall score: 65%
+
 ### SMOTE Oversampling
 
 ![](https://github.com/Mousse10/Credit_Risk_Analysis/blob/main/Resources/SMOTE%20Oversampling.PNG)
+
+- Balanced accuracy score: 65.12%
+- Precision score: 99%
+- Recall score: 66%
 
 ### Undersampling
 
 ![](https://github.com/Mousse10/Credit_Risk_Analysis/blob/main/Resources/Undersampling.PNG)
 
+- Balanced accuracy score: 51.03%
+- Precision score:
+- Recall score:
+
 ### Combination Under-Over Sampling
 
 ![](https://github.com/Mousse10/Credit_Risk_Analysis/blob/main/Resources/Combination%20(Over%20and%20Under)%20Sampling.PNG)
+
+- Balanced accuracy score: 51.03%
+- Precision score: 99%
+- Recall score: 44%
 
 ### Balanced Random Forest Classifier
 
 ![](https://github.com/Mousse10/Credit_Risk_Analysis/blob/main/Resources/Balanced%20Random%20Forest%20Classifier.PNG)
 
+- Balanced accuracy score: 79.52%
+- Precision score: 99%
+- Recall score: 88%
+
 ### Easy Ensemble AdaBoost Classifier
 
 ![](https://github.com/Mousse10/Credit_Risk_Analysis/blob/main/Resources/Easy%20Ensemble%20AdaBoost%20Classifier.PNG)
 
+- Balanced accuracy score: 91.78%
+- Precision score: 99%
+- Recall score: 94%
+
 ## Summary
+
+Upon further review and comparing the different results, we clearly see better results from the ensemble classifier methods to try and predict which loans are high or low risk. Out of all the models, the one with the best results is the Easy Ensemble Adaboost Classifier as it scored over 90% in all three major scores. 
