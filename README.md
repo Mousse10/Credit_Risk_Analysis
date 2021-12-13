@@ -52,9 +52,9 @@ The purpose of this analysis is to understand how to utilize Machine Learning st
 
 ### Easy Ensemble AdaBoost Classifier
 
-![](https://github.com/Mousse10/Credit_Risk_Analysis/blob/main/Resources/Easy%20Ensemble%20AdaBoost%20Classifier.PNG)
+![](https://github.com/Mousse10/Credit_Risk_Analysis/blob/main/Resources/Easy%20Ensemble%20AdaBoost%20Classifier%202.PNG)
 
-- Balanced accuracy score: 91.78%
+- Balanced accuracy score: 92.63%
 - Precision score: 99%
 - Recall score: 94%
 
